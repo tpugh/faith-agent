@@ -1,9 +1,9 @@
 title: Long Haul
 description: Long Form Jekyll theme built with SASS
 
-url: https://faithagent.org
+url: faithagent.org
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
-baseurl: faithagent.org
+baseurl: #faithagent.org
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
