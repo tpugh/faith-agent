@@ -23,19 +23,19 @@ navigation:
       url: /index.html
     - title: About
       url: /about
-    - title: Contact
-      url: /contact
+    #- title: Contact
+    #  url: /contact
 
 social:
-    github: brianmaierjr
-    twitter: brianmaierjr
-    facebook: brianmaierjr
-    email: brimaidesigns@gmail.com
-    linkedin: brianmaierjr
-    youtube: RickAstleyYT
-    tumblr: i-am-a-fish
+    #github: brianmaierjr
+    twitter: tpugh_
+    #facebook: brianmaierjr
+    #email: brimaidesigns@gmail.com
+    #linkedin: brianmaierjr
+    #youtube: RickAstleyYT
+    #tumblr: i-am-a-fish
 
-google_analytics: "UA-58263416-1"
+google_analytics: ""
 
 disqus:
-    shortname: brianmaierjr
+    shortname: tpugh
