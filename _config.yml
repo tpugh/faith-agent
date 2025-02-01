@@ -3,7 +3,7 @@ description: Long Form Jekyll theme built with SASS
 
 url: https://faithagent.org
 # Only necessary when hosting your site in a sub-directory. Project sites hosted on GitHub Pages are the common use-case of this variable.
-baseurl: #
+baseurl: /index.html
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
